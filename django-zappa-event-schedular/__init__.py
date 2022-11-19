@@ -1,1 +1,0 @@
-django_zappa_event_schedular/__init__.py
